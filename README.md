@@ -39,10 +39,7 @@
     <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,express,nestjs,redis,rabbitmq,firebase,mongodb,elasticsearch,postgresql,mysql" />
     <br>
 </div>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>
-</div>
+
 <br/>
 <hr/>
 
