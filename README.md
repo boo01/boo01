@@ -15,7 +15,7 @@
 
 💬 Ask me about **PHP, Laravel, Node.js, express, Nest.js... or anything [here](https://github.com/boo01/boo01/issues)**
 
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+⚡ Fun fact **The first computer game was created in 1961**
 
  </div>
  
