@@ -5,7 +5,6 @@
 </h1>
 
 <h3 align="center">I'm a passionate software developer from Georgia 🇬🇪</h3>
-
 <br/>
 
 <div align="center">
