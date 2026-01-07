@@ -11,7 +11,7 @@
  
  🔭 I’m currently working on **a crypto casino**
 
-💬 You can ask me about **PHP, Laravel, Node.js, express, Nest.js... or anything**
+💬 You can ask me about **PHP, Laravel, Node.js, express, Nest.js... or any other ...**
 
 ⚡ Just fact: **The first computer game was created in 1961**
 
